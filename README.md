@@ -1,4 +1,4 @@
-## Hi there 👋
+[![Angular Mid-Level Certificate](https://img.shields.io/badge/Angular_Certified-Mid--Level-DD0031?style=for-the-badge&logo=angular&logoColor=white&labelColor=7B1A1A)](https://certificates.dev/angular/certificates/a257aafd-cf79-4551-8305-5033843b37da)
 
 <!--
 **Stefanobeclea/Stefanobeclea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
